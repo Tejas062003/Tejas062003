@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas Korlekar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.imgur.com/7A5ZfPJ.gif">
-<p align="left"> <img src="https://i.imgur.com/7A5ZfPJ.gif" alt="tejas062003" /> </p>
+<p align="left"> <img src="" alt="tejas062003" /> </p>
 
 - 📫 How to reach me **https://www.linkedin.com/in/tejas-korlekar-0b1b85267/**
 
