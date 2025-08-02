@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Korlekar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="1000" src="https://i.imgur.com/7A5ZfPJ.gif">
 
 
